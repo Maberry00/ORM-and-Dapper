@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kingd\\OneDrive\\Desktop\\repos\\ORM-and-Dapper\\ORM-Dapper\\ORM-Dapper.csproj",
+      "projectUniqueName": "C:\\Users\\kingd\\OneDrive\\Desktop\\repos\\O and D\\ORM-Dapper\\ORM-Dapper.csproj",
       "projectName": "ORM-Dapper",
-      "projectPath": "C:\\Users\\kingd\\OneDrive\\Desktop\\repos\\ORM-and-Dapper\\ORM-Dapper\\ORM-Dapper.csproj",
+      "projectPath": "C:\\Users\\kingd\\OneDrive\\Desktop\\repos\\O and D\\ORM-Dapper\\ORM-Dapper.csproj",
       "packagesPath": "C:\\Users\\kingd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kingd\\OneDrive\\Desktop\\repos\\ORM-and-Dapper\\ORM-Dapper\\obj\\",
+      "outputPath": "C:\\Users\\kingd\\OneDrive\\Desktop\\repos\\O and D\\ORM-Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kingd\\AppData\\Roaming\\NuGet\\NuGet.Config",
